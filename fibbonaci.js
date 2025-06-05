@@ -25,4 +25,4 @@ function fibsIter(n) {
   return arr;
 }
 
-console.log(fibsIter(7)); // [0, 1, 1, 2]
+console.log(fibsIter(7)); // [0, 1, 1, 2, 3, 5, 8]
